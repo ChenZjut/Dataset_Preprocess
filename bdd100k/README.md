@@ -6,6 +6,7 @@
 
 #### 1.folder structure
 
+```
 **.**
 **├── bddTL2voc.py**
 **├── BDDVOC**
@@ -30,6 +31,7 @@
 **│   └── bdd100k_labels_images_val.json**
 **├── split_color.py**
 **└── voc_label.py**
+```
 
 #### 2.Prepare dataset
 
