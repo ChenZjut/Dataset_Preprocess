@@ -7,30 +7,30 @@
 #### 1.folder structure
 
 ```
-**.**
-**├── bddTL2voc.py**
-**├── BDDVOC**
-**│   ├── Annotations**
-**│   │   ├── train**
-**│   │   └── val**
-**│   └── JPEGImages**
-**│       ├── train**
-**│       └── val**
-**├── counter_labels.py**
-**├── Images**
-**│   ├── 100k**
-**│   │   ├── test**
-**│   │   ├── train**
-**│   │   └── val**
-**│   └── 10k**
-**│       ├── test**
-**│       ├── train**
-**│       └── val**
-**├── Labels**
-**│   ├── bdd100k_labels_images_train.json**
-**│   └── bdd100k_labels_images_val.json**
-**├── split_color.py**
-**└── voc_label.py**
+.
+├── bddTL2voc.py
+├── BDDVOC
+│   ├── Annotations
+│   │   ├── train
+│   │   └── val
+│   └── JPEGImages
+│       ├── train
+│       └── val
+├── counter_labels.py
+├── Images
+│   ├── 100k
+│   │   ├── test
+│   │   ├── train
+│   │   └── val
+│   └── 10k
+│       ├── test
+│       ├── train
+│       └── val
+├── Labels
+│   ├── bdd100k_labels_images_train.json
+│   └── bdd100k_labels_images_val.json
+├── split_color.py
+└── voc_label.py
 ```
 
 #### 2.Prepare dataset
